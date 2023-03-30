@@ -1,4 +1,5 @@
 # Holidays Easy
+# Admin Panel:- holidays-easy-admin-panel.netlify.app
 It's an online reservation Web App by using which you can book Restaurants, Hotels, Resorts etc.
 ![d1](https://user-images.githubusercontent.com/86897568/219605467-d7603f8a-2d9c-4b80-a879-fd253715f595.PNG)
 ![d2](https://user-images.githubusercontent.com/86897568/219605486-9a7c0e6e-039a-427e-b05c-651b6b9e149b.PNG)
